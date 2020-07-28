@@ -1,4 +1,3 @@
 import sys
 
-print("hallo")
-print("intpu: ", sys.argv[1])
+print(4, "intput:", sys.argv[1], "end")
